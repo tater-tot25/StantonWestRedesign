@@ -17,4 +17,4 @@ Credits:
 Andrew Tate: Modeling, Programming, Poster Design, Research on tree species and Coordination w/ groundkeepers on current land usage
 Aaron Friedrich: Plant Identification, Maintainance Plan, Research on proposed plant species, help with finding plant models
 
-~Thanks for viewing our work~
+\~Thanks for viewing our work\~
