@@ -1,6 +1,8 @@
 # StantonWestRedesign
 A little Unity application showing the privacy issues with Whitman College's Stanton Hall
 
+Link To Full Build Download: https://www.dropbox.com/scl/fi/ot1grdm32h1b8cpxepj2d/mainBuild.zip?rlkey=h0gxhz1y0lahqaaj7os7zk3kj&st=xm4msx66&dl=0
+
 Problem:
 
 As of now, there is a big issue with the West side of Stanton Hall. There is a complete lack of privacy between the windows of the hall and the house located 25 yards further to the West. Our goal is to fix this line of sight in order to provide more privacy to both students and residents living in the house. Along the way we would also like to increase bio-diversity in the area by reintroducing native plant species that can support a larger variety of animal life while showcasing the unique climate we get to live in.
